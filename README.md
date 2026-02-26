@@ -31,7 +31,7 @@ Support Pojo class deserialization
         <dependency>
             <groupId>io.github.thierrysquirrel</groupId>
             <artifactId>json</artifactId>
-            <version>1.0.0.0-RELEASE</version>
+            <version>1.0.0.1-RELEASE</version>
         </dependency>
 ```
 
