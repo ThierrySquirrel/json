@@ -1,5 +1,5 @@
 /**
- * Copyright 2025/1/28 ThierrySquirrel
+ * Copyright 2026/6/1 ThierrySquirrel
  * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -23,10 +23,10 @@ import io.github.thierrysquirrel.json.util.JsonUtil;
 /**
  * Classname: JsonSerializePojoField
  * Description:
- * Date:2025/1/28
+ * Date:2026/6/1
  *
  * @author ThierrySquirrel
- * @since JDK21
+ * @since JDK25
  **/
 public class JsonSerializePojoField {
     private JsonSerializePojoField() {

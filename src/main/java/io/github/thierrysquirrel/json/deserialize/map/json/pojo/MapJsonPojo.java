@@ -1,5 +1,5 @@
 /**
- * Copyright 2025/1/28 ThierrySquirrel
+ * Copyright 2026/6/1 ThierrySquirrel
  * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -19,10 +19,10 @@ package io.github.thierrysquirrel.json.deserialize.map.json.pojo;
 /**
  * Classname: MapJsonPojo
  * Description:
- * Date:2025/1/28
+ * Date:2026/6/1
  *
  * @author ThierrySquirrel
- * @since JDK21
+ * @since JDK25
  **/
 public class MapJsonPojo {
     private String value;
